@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Trained designer with solid experience in interface development, I know how to be an effective link between these two worlds and facilitate exchanges. Senior in frontend development, I am currently training on the React and VueJS frameworks on which I still consider myself a junior.
+
+Worried about environmental issues, the place and impact of digital technology in our world, concerned with respecting standards and web accessibility, I now seek to give meaning to my work.
+
+- 🌱 I’m currently learning React and improve my javascript skills
+- 👯 I’m looking to collaborate with persons aware of the need to begin an accessible and responsible digital transition.
+
 <!--
 **raphaelsanchez/raphaelsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
