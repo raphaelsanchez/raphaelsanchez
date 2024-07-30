@@ -4,7 +4,7 @@ Trained designer with solid experience in interface development, I know how to b
 
 Worried about environmental issues, the place and impact of digital technology in our world, concerned with respecting standards and web accessibility, I now seek to give meaning to my work.
 
-- 🌱 I’m currently learning React and improve my javascript skills on OpenClassrooms
+- ✅ I just finished my React training cours 🎉 and improved my JS/TS skills 🚀 on OpenClassrooms
 - 👯 I’m looking to collaborate with persons aware of the need to begin an accessible and responsible digital transition.
 
 <!--
